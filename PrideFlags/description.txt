@@ -1,0 +1,20 @@
+Pride Flags is a mod that allows you to create most pride flags as banners with just 5 Silks and the correct Dyes associated! The list and recipes is down below:
+Agender: Black Silver BrightSilver Lime
+Aromantic: Green Lime BrightSilver Silver Black
+Asexual: Black Silver BrightSilver Purple
+Bigender: BrightPink BrightYellow BrightSilver BrightPurple BrightSkyBlue
+Bisexual: Pink Violet Blue
+Demiboy: Black Silver BrightCyan BrightSilver
+Demigirl: Black Silver BrightPink BrightSilver
+Demiromantic: Black Green BrightSilver Silver
+Demisexual: Black Violet BrightSilver Silver
+Gay: Red Orange Yellow Green Blue Purple
+Genderfluid: BrightPink BrightSilver Violet Black Blue
+Genderflux: BrightPink BrightRed Silver BrightCyan SkyBlue BrightYellow
+Genderqueer: BrightPurple BrightSilver BrightLime
+Intersex: Yellow Purple
+Lesbian: Red Orange BrightSilver BrightViolet Pink
+Nonbinary: Yellow BrightSilver Purple Black
+Pansexual: Pink Yellow SkyBlue
+Plural: Red BrightLime BrightSkyBlue Purple
+Transgender: SkyBlue BrightPink BrightSilver

@@ -1,0 +1,3 @@
+displayName = Pride Flags
+author = Terkaza
+version = 1.0
